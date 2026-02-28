@@ -1,23 +1,19 @@
 # 🏛️ ViraasatAR
 ### AR-Based Cultural Heritage Preservation Platform  
 
-**Smart India Hackathon 2025**  
-**Problem Statement ID:** SIH25052  
-**Theme:** Heritage & Culture  
-
 ---
 
 ## 📌 Overview  
 
-**AR Cultural Hub** is a web-based Augmented Reality platform designed to digitally preserve and promote India's cultural heritage.  
+**ViraasatAR** is a web-based Augmented Reality platform designed to digitally preserve and promote India's cultural heritage.  
 
-Users can scan QR codes to instantly view immersive 3D models of monuments, listen to multilingual audio narrations, and discover local cultural events — all optimized for low-bandwidth rural access.
+Users can access links to instantly view immersive 3D models of monuments, listen to multilingual audio narrations and discover local cultural events - all optimized for low-bandwidth rural access.
 
 ---
 
 ## 🚀 Features  
 
-- 🔲 **QR Code AR Activation** — Scan to instantly launch 3D heritage models  
+- 🔲 **Instant Link AR Activation** — Click the link to instantly launch 3D heritage models  
 - 🌐 **Multilingual UI** — Regional language support via React i18n  
 - 🔊 **AI-Generated Audio Narration** — Powered by Murf.ai for multilingual storytelling  
 - 📅 **Cultural Events Discovery** — City-wise event listing and booking integration  
@@ -39,7 +35,7 @@ Users can scan QR codes to instantly view immersive 3D models of monuments, list
 ---
 
 ## 🏗️ Architecture  
-User → Scans QR Code
+User → Acess the Link
 → Initiates AR Session (8th Wall + ARCore)
 → React.js UI with i18n loads
 → Requests 3D models / audio / UI text
@@ -62,43 +58,13 @@ User → Scans QR Code
 ---
 
 ## 🌍 Impact  
-
-**Primary Users:**  
-- Rural communities  
-- Students  
-- Location-specific immersive cultural learning  
-
-**Secondary Users:**  
-- Educators  
-- Event organizers  
-- Heritage tourism stakeholders  
-
 Promotes cultural diplomacy, digital literacy, and heritage tourism.
 
 ---
+## 🔗 Prototype 
 
-## 👩‍💻 Team  
-
-**Team Name:** Cultural Hub  
-**Team ID:** SIH-SCETW-68  
-**College:** Stanley College of Engineering & Technology for Women, Hyderabad  
+[**View Prototype**](https://laaatrail.wixsite.com/cultural-hub)
 
 ---
 
-## 🔗 Prototype  
-
-**View Prototype →** (Add your link here)
-
----
-
-## 📚 References  
-
-- UNESCO  
-- Archaeological Survey of India (ASI)  
-- 8th Wall Documentation  
-- ARCore Developer Docs  
-- React i18n  
-- Murf.ai  
-
----
 
